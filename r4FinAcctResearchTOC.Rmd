@@ -1,0 +1,28 @@
+---
+title: "rForFinAcctResearchTOC.rmd"
+author: "JPB"
+date: "1/16/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Potential Table of Contents
+  # Tools
+  
+    R
+      Installation
+      RStudio
+      Basic Data Types
+      Plotting
+      The Tidyverse
+      First Application: Calculating Summary Statistics and Visualizing Data
+      
+  # Preproducible Research
+  
+    RMarkDown Concepts
+      YAML
+      Code Chunks
+      Second Application: Generating a "mini" research report
